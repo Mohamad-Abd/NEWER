@@ -1,0 +1,891 @@
+*{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    font-weight: bold;
+}
+#lekha{
+    position: absolute;
+    height: 60px;
+    
+    border-right: #3E3D3D 1px solid;
+    width: 400px;
+    top: 266px;
+    left: 146px;
+    
+}
+html{
+    width: 1910px;
+}
+body{
+    background-color: #f0f3f0;
+    width: 1910px;
+    height: 4960px;
+}
+label{
+    text-decoration: none;
+}
+.header{
+    display: block;
+    border-bottom: grey solid 1px;
+    height: 40px;
+    background-color: #fff;
+    width: 1910px;
+}
+.wela{
+    height: 38px;
+    position: relative;
+    left: 330px;
+    ;
+    
+}
+.ser{
+    position: relative;
+    left: 330px;
+    bottom: 7px;
+    font-size: 33px;
+    margin-right: 60px;
+    
+}
+#america{
+    height: 14px;
+    position: relative;
+    top: 2px;
+
+}
+.sar{
+    position: relative;
+    left: 380px;
+    bottom: 15px;
+    font-size: 15px;
+    color: black;
+    margin-left: 40px;
+}
+.down{
+height: 6px;
+position: relative;
+bottom: 1px;
+
+}
+#butt{
+    border: honeydew solid;
+    border-radius: 20px;
+    width: 90px;
+    color: honeydew;
+    height: 30px;
+    background-color: green;
+    margin-left: 330px;
+    position: relative;
+    right: 50px;
+    
+}
+#amer{
+    margin-right: 50px;
+}
+#dli{
+    position: relative;
+    width: 1650px;
+    background-image: linear-gradient(256deg, #eeefdc, #002919);
+    border: linear-gradient(256deg, #eeefdc, #002919) 1px solid;
+    border-radius: 15px;
+    height: 500px;
+    top: 50px;
+    left: 140px;
+    
+}
+#dlo{
+    position: relative;
+    background-color: white;
+    height: 610px;
+}
+#study{
+    font-size: 70px;
+    color: #fff;
+    width: 300px;
+    position: relative;
+    top: 70px;
+    left: 150px;
+    height: 55px;
+    font-weight: bold;
+}
+#dis{
+    position: relative;
+    width: 900px;
+    
+    font-size: 25px;
+    text-align: left;
+    top: 120px;
+    left: 150px;
+    margin-bottom: 10px;
+    color: #fff;
+    
+}
+.serc{
+    position: relative;
+    width: 860px;
+    height: 60px;
+    bottom: 80px;
+    right: 400px;
+    border: 1px solid white;
+    border-radius: 30px;
+    
+}
+#speno{
+    position: relative;
+    top: 320px;
+    width: 2000px;
+    height: 400px;
+    left: 550px;
+}
+#lino{
+    top:253px;
+    position: relative;
+    right: 330px;
+    font-size: 63px;
+    color: white;
+}
+::placeholder{
+    font-size: 15px;
+    position: relative;
+    left: 30px;
+}
+#marder{
+    position: relative;
+    top: 240px;
+    right: 310px;
+    font-size: 15px;
+    color: #737373;
+}
+#zehj{
+    position: relative;
+    bottom: 80px;
+    right: 10px;
+}
+#mego{
+    position: relative;
+    height: 550px;
+    bottom: 265px;
+    width: 400px;
+    left: 1135px;
+    
+}
+#dlu{
+    position: relative;
+    right: 25px;
+    height: 100px;
+}
+#pku{
+    position: absolute;
+    top: 280px;
+    height: 30px;
+    right: 660px;
+}
+#deno{
+    position: relative;
+    width: 1910;
+    background-image: linear-gradient(to right, #dcefdc, #aad5ed);
+    height: 800px;
+}
+#how{
+    position: relative;
+    font-weight: bold;
+    font-size: 60px;
+    left: 240px;
+}
+#six{
+    position: relative;
+    font-size: 30px;
+    top: 40px;
+    right: 240px;
+}
+#sih{
+    position: relative;
+    top: 40px;
+}
+#port{
+    position: relative;
+    
+    height: 500px;
+    top: 170px;
+    width: 1500px;
+    left: 225px;
+
+}
+#ljh{
+position: relative;
+font-size: 50px;
+font-weight: bold;
+right: 30px;
+width:1700px ;
+
+}
+.mk{
+    position: relative;
+    margin-right: 530px;
+    color: #646161;
+}
+.white{
+    position: relative;
+    padding-right: 5px;
+    height: 210px;
+    background-color: white;
+    width: 350px;
+    bottom: 65px;
+    margin-right: 225px;
+    border: 1px solid white;
+    border-radius: 15px;
+    display: inline-block;
+    right: 5px;
+}
+#mages{
+    position: relative;
+    width: 1770px;
+}
+.zager{
+    top: 65px;
+    position: absolute;
+    height: 150px;
+    left: 10px;
+}
+.text{
+    position: absolute;
+    font-size: 20px;
+    left: 40px;
+    font-weight: bold;
+    top: 10px;
+}
+.pare{
+    position: absolute;
+    top: 80px;
+    font-size: 17px;
+    height: 10px;
+    text-align: left;
+    width: 180px;
+    color: #4B4B4B ;
+    left: 170px;
+
+}
+#gre{
+    font-size: 17px;
+}
+#comp{
+    position: absolute;
+    left:60px;
+}
+#compa{
+    position: absolute;
+    left: 90px;
+}
+.ml{
+    position: relative;
+    margin-right: 530px;
+    color: #646161;
+    font-size: 50px;
+    font-weight: bold;
+}
+.ljk{
+    position: relative;
+    bottom: 5px;
+    height: 400px;
+font-size: 60px;
+font-weight: bold;
+right: 50px;
+width: 1720px; 
+}
+#imago{
+    position: relative;
+    width: 2200px;
+}
+.whito{
+    position: relative;
+    height: 210px;
+    background-color: white;
+    width: 350px;
+    bottom: 400px;
+    margin-right: 225px;
+    border: 1px solid white;
+    border-radius: 15px;
+    display: inline-block;
+    right: 5px;
+    padding-right: 5px;
+}
+#kloj{
+    font-size: 17px;
+}
+#adml{
+    position: absolute;
+    left: 65px;
+}
+#psco{
+    position: absolute;
+    font-size: 17px;
+    bottom: 20px;
+}
+#shwe{
+    position: relative;
+    width: 1910px;
+    height: 950px;
+    background-image: linear-gradient(109deg, #fef6da, #fbe0cb);
+    
+
+}
+#bata{
+    position: relative;
+    width: 1070px;
+    background-color: #d4baa5;
+    height: 50px;
+    top: 60px;
+    border-top-right-radius: 1px solid black;
+    border-radius: 15px;
+    left:450px;
+    
+    
+}
+#browse{
+    position: relative;
+    top: 12px;
+    font-size: 20px;
+    left: 30px;
+}
+#makfe{
+    position: absolute;
+    width: 555px;
+    background-color: white;
+    height: 50px;
+    border-right: 1px solid white;
+    border-radius: 15px;
+    border-left: white 1px solid;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    left: 965px;
+    top: 60px;
+    
+}
+#find{
+    color: grey;
+    position: relative;
+    top: 12px;
+    font-size: 20px;
+    left: 30px;
+}
+#visa{
+    position: absolute;
+    left: 100px;
+}
+#jour{
+    position: absolute;
+    left: 80px;
+}
+.close{
+    position: relative;
+    height:220px;
+    background-color: white;
+    border-radius: 15px;
+    width: 340px;
+    display: inline-block;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    left: 210px;
+    top: 120px;
+}
+.malka{
+    position: relative;
+    height: 190px;
+   
+    left: 80px;
+}
+.texta{
+    position: relative;
+    font-size: 23px;
+    left: 45px;
+    bottom: 10px;
+    font-weight: bold;
+}
+#flowe{
+    position: relative;
+    width: 1500px;
+    right: 0px;
+    left: 30px;
+}
+#op{
+    position: relative;
+    height: 490px;
+}
+#rozme{
+    position: relative;
+    height: 460px;
+    width: 370px;
+    top: 20px;
+    left: 1420px;
+}
+#suporte{
+    position: relative;
+    font-size: 50px;
+    font-weight: bold;
+    bottom: 300px;
+    right: 220px;
+}
+#skedja{
+    position: relative;
+    font-size: 25px;
+    right: 660px;
+    bottom: 240px;
+}
+#bratan{
+    position: relative;
+    padding: 10px;
+    border: 1px green solid;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    right: 1530px;
+    bottom: 170px;
+}
+#sree{
+    position: relative;
+    left: 20px;
+}
+#two{
+    position: relative;
+    left: 10px;
+}
+#foor{
+    position: relative;
+    left: 5px;
+}
+#fivee{
+    position: relative;
+    left: 10px;
+}
+#sixyane{
+    position: relative;
+    left: 15px;
+}
+#akdar{
+    position: relative;
+    height: 830px;
+    background-image: linear-gradient(69deg, #a8d3ab, #ecf0c9);
+    
+}
+#why{
+    position: relative;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    left: 660px;
+    top: 50px;
+}
+.kavani{
+    background-color: #619b80;
+    border-radius: 15px;
+}
+.font{
+    font-size: 30px;
+}
+.fanta{
+    font-size: 20px;
+}
+#uno{
+    position: relative;
+    width: 500px;
+    height: 210px;
+    left: 275px;
+    top: 80px;
+    
+}
+.oskot{
+    position: relative;
+    height: 200px;
+    top: 5px;
+    left: 20px;
+}
+#chen{
+    position: relative;
+    left: 200px;
+    font-size: 26px;
+    width: 10px;
+    color: white;
+    left: 240px;
+    bottom: 190px;
+    font-weight: bold;
+    
+}
+#cheno{
+    position: relative;
+    width: 255px;
+    font-size: 18px;
+    color: white;
+    left: 240px;
+    bottom: 180px;
+    letter-spacing: 1px;
+    
+}
+#duo{
+    position: relative;
+    
+    height: 500px;
+    width: 370px;
+    left: 800px;
+    bottom: 130px;
+    
+}
+#estabel{
+    position: relative;
+    left: 50px;
+}
+#sf{
+position: relative;
+font-size: 26px;
+font-weight: bold;
+color: white;
+left: 65px;
+top: 30px;
+width: 40px;
+text-align: center;
+}
+#znj{
+    position: relative;
+    left: 45px;
+}
+#oskote{
+height: 280px;
+position: absolute;
+top: 100px;
+right: 95px;
+}
+#am{
+    position: relative;
+    font-size: 20px;
+    color: white;
+    top: 320px;
+    left: 30px;
+    width: 240px;
+    letter-spacing: 0.5px;
+
+}
+#tssto{
+    position: relative;
+    height: 265px;
+    width: 500px;
+    bottom: 395px;
+    left: 275px;
+}
+#brazil{
+    position: relative;
+    height: 260px;
+    left: 220px;
+}
+#bekafe{
+    position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    width: 10px;
+    bottom: 230px;
+    left: 20px;
+}
+#with{
+    position: relative;
+    width: 170px;
+    font-size: 18px;
+    color: white;
+    bottom: 210px;
+    left: 20px;
+}
+#finan{
+    position: relative;
+    width: 600px;
+    height: 240px;
+    bottom: 635px;
+    left: 1195px;
+}
+#felo{
+    position: relative;
+    height: 260px;
+    left: 320px;
+    bottom: 10px;
+}
+
+#fenan{
+    position: relative;
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+    bottom: 210px;
+    left: 20px;
+}
+#get{
+    position: relative;
+    font-size: 19px;
+    color: white;
+    width: 250px;
+    bottom: 180px;
+    left: 20px;
+}
+#closest{
+    position: relative;
+    width: 350px;
+    height: 235px;
+    bottom: 1135px;
+    left: 1195px;
+}
+#closar{
+    position: relative;
+    height: 235px;
+    width: 220px;
+    bottom: 1370px;
+    left: 1570px;
+}
+#walla{
+    position: relative;
+    height: 120px;
+    width: 150px;
+    left: 100px;
+    top: 40px;
+}
+#party{
+    position: relative;
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+    bottom: 120px;
+    left: 65px;
+}
+#choose{
+    position: relative;
+    color: white;
+    font-size: 20px;
+    width: 250px;
+    top: 5px;
+    left: 65px;
+}
+#cm{
+    position: relative;
+    height: 80px;
+    top: 80px;
+    left: 65px;
+}
+#conte{
+    position: relative;
+    font-size: 26px;
+    font-weight: bold;
+    color: white;
+    bottom:75px;
+    left: 50px;
+}
+#adv{
+    position: relative;
+    font-size: 18px;
+    width: 200px;
+    color: white;
+    top: 10px;
+    left: 10px;
+}
+#mshano{
+    position: relative;
+    right: 75px;
+    height: 830px;
+   
+}
+#ashano{
+    position: relative;
+    top: 20px;
+    height: 830px;
+}
+#botno{
+    position: relative;
+    color: white;
+    background-color: green;
+    font-size: 20px;
+    padding: 10px;
+    bottom: 100px;
+    border: 1px solid green;
+    border-radius: 25px;
+    left: 700px;
+    width: 470px;
+}
+#last{
+    position: relative;
+    width: 1910px;
+    height: 870px;
+}
+#our{
+    position: relative;
+    font-size: 70px;
+    left: 650px;
+    font-weight: bold;
+    top: 60px;
+}
+#right{
+    position: absolute;
+    left: 1850px;
+    top: 270px;
+}
+#left{
+    position: absolute;
+    right: 1830px;
+    top: 260px;
+}
+.hete{
+    position: relative;
+    height: 100px;
+    margin-right: 100px;
+}
+#hato{
+    position: relative;
+    height: 110px;
+}
+#hata{
+    top: 130px;
+    position: relative;
+    left: 145px;
+    width: 1750px;
+}
+#ta{
+    position: relative;
+    top: 190px;
+    left: 1350px;
+    height: 450px;
+    width: 380px;
+}
+#kalastoo{
+    position: relative;
+    font-size: 40px;
+    width: 850px;
+    font-weight: bold;
+    left: 220px;
+    bottom: 70px;
+    
+}
+#learn{
+    position: relative;
+    padding: 10px;
+    color: white;
+    background-color: green;
+    border: green 1px solid;
+    border-radius: 25px;
+    font-size: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+    left: 220px;
+    width: 150px;
+    bottom: 30px;
+}
+#ala{
+    height: 340px;
+    background-color: #001f00;
+    right: 100px;
+    width: 1910px;
+    position: relative;
+    top: 10px;
+    padding-top: 20px;
+    padding-right: 100px;
+    
+    
+}
+.lol{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    position: relative;
+    margin-top: 15px;
+    font-weight: bold;
+    bottom: 20px;
+    left: 40px;
+}
+.lal{
+    margin-bottom: 30px;
+    position: relative;
+    left: 300px;
+    text-decoration: none;
+    top: 30px;
+    width: 300px;
+}
+.pele{
+margin-top: 10px;
+    margin-bottom: 30px;
+    position: absolute;
+    left: 300px;
+    text-decoration: none;
+    bottom: 365px;
+    width: 700px;
+}
+.polo{
+    top: 4300px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    position: relative;
+    margin-top: 15px;
+    left: 720px;
+    bottom: 120px;
+}
+#kelo{
+    position: relative;
+    left: 1225px;
+    bottom: 320px;
+    width: 300px;
+}
+.pio{
+    position: absolute;
+    margin-top: 275px;
+    position: relative;
+    left: 600px;
+    bottom: 540px;
+    width:500px ;
+}
+.fins{
+    height: 22px;
+    margin-left: 5px;
+    position: relative;
+    left: 290px;
+    bottom: 200px;
+}
+#clutch{
+    background-color: #001000;
+    width: 1900px;
+    position: absolute;
+    bottom: 0.05px;
+    top: 4920px;
+    height: 20px;
+    left: px;
+    padding-right: 15px;
+    
+    
+    
+    padding-bottom: 20px;
+    
+    
+}
+#kalle{
+    position: relative;
+    left: 830px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    top: 7px;
+}
+
+.lvq{
+    width: 500px;
+}
+.dedo{
+    position: relative;
+    bottom: 350px;
+    font-size: 15px;
+    left: 900px;
+    width: 300px;
+}
+.bakel{
+    margin-top: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+#dodo{
+    width: 300px;
+    position: relative;
+    bottom: 670px;
+    left: 1525px;
+}

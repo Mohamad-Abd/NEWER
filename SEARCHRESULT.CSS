@@ -1,0 +1,639 @@
+*{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    padding: 0px;
+    font-weight: bold;
+}
+html{
+  height: 3290px;  
+  width: 2000px;
+}
+body{
+    height: 3290px;
+}
+label{
+    text-decoration: none;
+}
+.ux{
+    position: relative;
+    
+    
+}
+
+#elab{
+    position: relative;
+    width: 150px;
+    font: 10px;
+}
+#lao{
+    position: relative;
+    left: 180px;
+}
+#qsy{
+    position: absolute;
+    bottom: 00px;
+    right:1350px;
+}
+.header{
+    display: block;
+    border-bottom: grey solid 1px;
+    height: 40px;
+    background-color: #fff;
+    width: 1930px;
+}
+.wela{
+    height: 38px;
+    position: relative;
+    left: 330px;
+    ;
+    
+}
+#lae{
+    position: relative;
+    left: 60px;
+}
+.ser{
+    position: relative;
+    left: 330px;
+    bottom: 7px;
+    font-size: 33px;
+    margin-right: 60px;
+    
+}
+#america{
+    height: 14px;
+    position: relative;
+    top: 2px;
+
+}
+.sar{
+    position: relative;
+    font-weight: bold;
+    left: 380px;
+    bottom: 15px;
+    font-size: 15px;
+    color: black;
+    margin-left: 40px;
+}
+.down{
+height: 6px;
+position: relative;
+bottom: 1px;
+
+}
+#butt{
+    border: honeydew solid;
+    border-radius: 20px;
+    width: 90px;
+    color: honeydew;
+    height: 30px;
+    background-color: green;
+    margin-left: 330px;
+    position: relative;
+    right: 50px;
+    
+}
+#amer{
+    margin-right: 50px;
+}
+#under{
+    position: relative;
+    width: 1930px;
+    background-color: white;
+    height: 50px;
+    border-bottom: 1px solid rgb(208, 211, 212 );
+    
+}
+#kefak{
+    position: relative;
+    font-size: 20px;
+    top: 10px;
+    left: 330px;
+    
+}
+select{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    position: relative;
+    right: 4px;
+}
+#selector{
+    position: relative;
+    left: 1490px;
+    bottom: 10px;
+}
+option{
+    font-weight: bold;
+}
+#undero{
+    height: 63px;
+    background-color: white;
+    width: 1930px;
+    border-bottom: 1px solid rgb(208, 211, 212 );
+}
+#seso{
+    font-weight: bold;
+}
+#res{
+    position: relative;
+    left: 1700px;
+    bottom: 60px;
+
+}
+#search{
+    position: relative;
+    width: 350px;
+    height: 40px;
+    border: 1px solid rgb(208, 211, 212 ) ;
+    border-radius: 15px;
+    top: 15px;
+    left: 60px;
+
+}
+::placeholder{
+    left: 30px;
+    position: relative;
+    font-size: 15px;
+}
+#bateno{
+    position: relative;
+    left: 20px;
+    top: 20px;
+    background-color: white;
+    border: white 0px;
+    
+    
+    
+}
+#pelas{
+    height: 40px;
+}
+.munich{
+    height: 20px;
+    position: relative;
+    font-weight: bold;
+    border: none;
+    left: 420px;
+    bottom: 25px;
+    border: 1px;
+    width: 80px;
+    background-color:rgb(229, 231, 233 );
+    padding: 10px;
+    border: 1px solid rgb(236, 240, 241 );
+    border-radius: 15px;
+    padding-right: 40px;
+
+}
+#x{
+    position: relative;
+    left: 80px;
+    bottom: 20px;
+    background-color: rgb(229, 231, 233  );
+    border: none;
+}
+#sports{
+    position: absolute;
+    bottom: 800px;
+    left: 560px;
+}
+.brew{
+    position: relative;
+    border: rgb(229, 231, 233 ) 1px solid;
+    left: 40px;
+}
+#waaa{
+    position: relative;
+    left: 50px;
+}
+#ouii{
+    position: relative;
+    border: rgb(229, 231, 233 ) 1px solid;
+    bottom: 20px;
+    left: 100px;
+    
+}
+#money{
+    position: absolute;
+    bottom: 800px;
+    left: 700px;
+}
+#upl{
+    position: relative;
+    width: 1517px;
+    background-color:#f0f3f0 ;
+    height: 2690px;
+    left: 415px;
+    top: 20px;
+}
+#ups{
+    position: relative;
+    background-color: white;
+    width: 615px;
+    height: 1000px;
+    right: 200px;
+    bottom: 2730px;
+    border-right: 1px solid rgb(208, 211, 212 );
+}
+#field{
+    color:black;
+    position: relative;
+    left: 340px;
+    width: 705px;
+    top: 20px;
+    border-bottom:   solid  1px rgb(208, 211, 212 );
+    padding-bottom: 20px;
+    padding-right: 80px;
+}
+.spes{
+    position: relative;
+    color: rgb(179, 182, 183);
+    left: 10px;
+}
+#loc{
+    position: relative;
+    background-color:white;
+    height: 300px;
+    width: 270px;
+    left: 340px;
+    top: 90px;
+    
+    
+    
+    
+    
+}
+#ger{
+    position: relative;
+    top: 35px;
+    right: 91px;
+}
+#mun{
+    position: relative;
+    top: 87px;
+    right: 5px;
+    color: #4c8be0;
+}
+#fin{
+    position: relative;
+    top: 119px;
+    right: 71px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px rgb(208, 211, 212 );
+    padding-right: 130px;
+}
+#bre{
+    position: relative;
+    top: 70px;
+    right: 170px;
+    color:#888787 ;
+}
+.lkm{
+    font-size: 16px;
+}
+
+
+#lok{
+    position: relative;
+    right: 3px;
+}
+#degree{
+    position: relative;
+    top: 180px;
+    right: 10px;
+}
+#lange{
+    position: relative;
+    top: 250px;
+    right: 90px;
+}
+#dura{
+    position: relative;
+    top: 320px;
+    right: 193px;
+}
+#semes{
+    position: relative;
+    top: 320px;
+    font-size: 10px;
+    right: 16px;
+    color: rgb(158, 158, 158);
+}
+#inputo{
+    position: relative;
+    bottom: 60px;
+}
+#lablo{
+    position: relative;
+    bottom: 60px;
+}
+#okj{
+    position: relative;
+    left: 130px;
+    top: 13px;
+    font-size: 13px;
+    color: rgb(158, 158, 158);
+}
+#okl{
+    position: relative;
+    left: 29px;
+    top: 14px;
+    color: rgb(158, 158, 158);
+    font-size: 13px;
+}
+#ranga{
+    position: relative;
+    top: 390px;
+    right: 40px;
+}
+#rangt{
+    position: relative;
+    
+}
+#tuti{
+    position: relative;
+    top: 400px;
+    right: 15px;
+}
+#ineu{
+    position: relative;
+    top: 420px;
+    font-size: 10px;
+    right:120px;
+    color: rgb(158, 158, 158);
+}
+#lefto{
+    position: relative;
+    top: 420px;
+    right: 20px;
+}
+#righto{
+    position: relative;
+    top: 420px;
+    right: 90px;
+}
+#numo{
+    position: relative;
+    top: 410px;
+    font-size: 10px;
+    left: 30px;
+}
+#nume{
+    position: relative;
+    top: 410px;
+    left: 65px;
+    font-size: 10px;
+}
+#atten{
+    position: relative;
+    top: 500px;
+    right: 75px;
+}
+.betaga{
+    position: relative;
+    background-color: #fff;
+    width:1400px;
+    height: 230px;
+    left: 35px;
+    border: 1px solid black;
+    border-radius: 15px;
+    bottom: 40px;
+    margin-top: 40px;
+    
+}
+#palooe{
+    position: absolute;
+    top: 20px;
+    left: 1px;
+    font-weight: bold;
+    font-size: 22px;
+}
+#palooa{
+    position: relative;
+    color: #696969;;
+    top: 50px;
+}
+.spero{
+    position: relative;
+    left: 350px;
+    bottom: 155px;
+}
+.lel{
+    height: 130px;
+    width: 900px;
+    position: absolute;
+    background-color: white;
+    left: 35px;
+    top: 85px;
+    right: 120px;
+    border-radius: 20px;
+    
+    }
+    .busi{
+        position: relative;
+        right: 5px;
+    }
+    .zlla{
+        left: 50px;
+        position: relative;
+    }
+    .zea{
+        
+        margin-bottom: 100px;
+        position: relative;
+        top: 15px;
+        right: 90px;
+        height: 40px;
+    }
+    #pll{
+        position: relative;
+        left: 40px;
+    }
+    #ole{
+        position: relative;
+        left: 160px;
+    }
+    #tre{
+        left: 310px;
+    }
+    #tro{
+        left: 650px;
+    }
+    .ule{
+        bottom: 100px;
+        position: relative;
+        
+        right: 70px;
+       
+        font-size: 17px;
+    }
+    #eje{
+        margin-right: 20px;
+        
+    }
+    #lengy{
+        position: relative;
+        top: 90px;
+        right: 580px;
+    }
+    #enge{
+        position: relative;
+        font-size: 17px;
+        bottom: 25px;
+        right: 560px;
+    }
+    #mal{
+        position: relative;
+        top: 90px;
+        right: 405px;
+    }
+    #euro{
+        position: relative;
+        bottom: 25px;
+        right: 390px;
+        font-size: 17px;
+    
+    }
+    #tkaraj{
+        position: relative;
+        top: 85px;
+        right: 245px;
+    }
+    #mba{
+        position: relative;
+        font-size: 17px;
+        bottom: 25px;
+        right: 225px;
+    }
+    #menko{
+        position: relative;
+        height: 140px;
+        top: 40px;
+        left: 40px;
+        width: 250px;
+    }
+    .apply{
+        position: relative;
+        padding: 10px;
+        border: 1px solid white;
+        background-color: green;
+        border-radius: 15px;
+        color: white;
+        left: 30px;
+        bottom: 160px;
+    }
+    #read{
+        position: relative;
+        bottom: 100px;
+        left: 820px;
+    }
+    #zeko{
+        position: absolute;
+        top: 170px;
+        left: 1px;
+        right: 200px;
+    }
+#ala{
+    height: 340px;
+    background-color: #001f00;
+    right: 1px;
+    width: 1910px;
+    position: relative;
+    bottom:960px;
+    padding-top: 20px;
+    
+    
+}
+.lol{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    position: relative;
+    font-weight: bold;
+    margin-top: 15px;
+    bottom: 20px;
+    left: 40px;
+}
+.lal{
+    margin-bottom: 30px;
+    position: relative;
+    left: 190px;
+    text-decoration: none;
+    top: 30px;
+}
+.pele{
+    margin-bottom: 30px;
+    position: relative;
+    left: 875px;
+    text-decoration: none;
+    bottom: 1290px;
+    width: 700px;
+}
+.polo{
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    font-size: 15px;
+    position: relative;
+    margin-top: 15px;
+    left: 30px;
+}
+#kelo{
+    position: relative;
+    left: 30px;
+}
+.pio{
+    position: relative;
+    left: 600px;
+    bottom: 290px;
+    width:500px ;
+}
+.fins{
+    height: 22px;
+    margin-left: 5px;
+    position: relative;
+    left: 1520px;
+    bottom: 1590px;
+}
+#kemo{
+    background-color: #001000;
+    width: 1906px;
+    height: 30px;
+    position: relative;
+    bottom: 1420px;
+    padding-bottom: 10px;
+}
+    
+    
+
+#kalle{
+    position: relative;
+    left: 840px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    top: 7px;
+}
+
+.lvq{
+    width: 500px;
+}
+#esken{
+    position: relative;
+    left: 40px;
+    width: 200px;
+    background-color: black;
+    bottom:b;
+}
+.expo{
+    margin-bottom: 30px;
+    position: relative;
+    left: 1500px;
+    text-decoration: none;
+    bottom: 1590px;
+    width: 700px;
+}
